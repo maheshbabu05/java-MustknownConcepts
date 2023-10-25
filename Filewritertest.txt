@@ -1,0 +1,3 @@
+simple way to learn java
+Test line 2
+Test line 3
